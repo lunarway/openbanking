@@ -8,5 +8,5 @@ If you have a question or need help then check the [issues](https://github.com/l
 
 ## Resources
 
-- API documentation: <https://developer.openbanking.prod.lunar.app/home>
+- API documentation: <https://developer.openbanking.prod.lunar.app>
 - API up-time: <https://status.lunar.app/>
