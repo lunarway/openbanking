@@ -27,7 +27,7 @@ If all the above looks good you can open an issue.
 
 **Debug information**
 
-* Call `https://debug.openbanking-sandbox.prod.lunar.tech` including your certificate and private key (eg. `curl -k https://debug.openbanking-sandbox.prod.lunar.tech --cert your_certificate --key your_private_key`)
+* Call `https://debug.openbanking-sandbox.prod.lunar.tech` including your certificate and private key (eg. `curl -k https://debug.openbanking-sandbox.prod.lunar.tech --cert your_full_certificate_chain --key your_private_key`)
 * Note the time of the call:
 
 ---
