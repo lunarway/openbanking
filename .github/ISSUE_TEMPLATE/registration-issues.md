@@ -25,6 +25,10 @@ If all the above looks good you can open an issue.
 
 **Link to the intermediate certificate on the [EU Trusted list](https://eidas.ec.europa.eu/efda/tl-browser/#/screen/home):**
 
+**Debug information**
+* call `curl -k https://debug.openbanking-sandbox.prod.lunar.tech --cert your_certificate --key your_private_key`
+* Note the time of the call:
+
 
 ---
 
